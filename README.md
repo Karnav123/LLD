@@ -16,3 +16,11 @@
     12. Customers should be able to pay using card or wallet.
     13. The system should provide the option to cancel the ticket as refund the amount.
     14. No two customer should be able to book same seat in the same show.
+    
+  ## Use case diagram
+  
+  ##### Main Actors in our system:
+    1. Admin
+    2. Customer
+    3. Guest User
+    4. System
