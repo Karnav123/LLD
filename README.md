@@ -24,3 +24,26 @@
     2. Customer
     3. Guest User
     4. System
+    
+  ##### Use Cases:
+    1. Search Movies
+    2. Create Booking
+    3. Pay for booking
+    4. Assign seat
+    5. Cancel bookings
+    6. Refund for cancellation
+    7. Apply coupons for payment offers
+    
+  ## List of classes
+    1. User Accounts (Admin, Customer)
+    2. Movie
+    3. Cinema
+    4. Cinema Hall
+    5. City
+    6. Address
+    7. Show
+    8. Cinema Hall Seat
+    9. Show Seat
+    10. Payment
+    11. Notification
+    12. Ticket
